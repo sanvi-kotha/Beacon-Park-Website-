@@ -1,0 +1,26 @@
+#contact iframe {
+    width: 100%;
+}
+
+#BP{
+   
+    border: none;
+ 
+}
+
+.m_main {
+
+    border: 5px dashed lightgoldenrodyellow;
+    margin: 20px auto;
+    width: 60%;
+    font-size: 25px;
+   
+ 
+    
+}
+
+.m_main i {
+    float: right;
+}
+
+
